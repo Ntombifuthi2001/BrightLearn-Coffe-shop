@@ -1,2 +1,2 @@
-# BrightLearn-Coffee-shop
+# BrightLight-Coffee-shop
 Case study
